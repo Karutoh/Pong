@@ -7,5 +7,5 @@ The Lone Wolf Engine was designed from the ground, up from scratch. Very few lib
 
 ## Planned Features
 
-- Multiplayer
+- Online Multiplayer
 - Graphical User Interface
